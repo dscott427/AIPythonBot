@@ -25,7 +25,7 @@ import openvino_genai as ov_genai
 # CONFIG
 # =========================
 
-TOKEN = "8297145439:AAFGAJhKFF-HaISR8Qu-owSDcB2P8FgkAlQ"
+TOKEN = "ADD TOKEN"
 MODEL_PATH = r"C:\models\gemma4"
 DEVICE = "GPU"
 
