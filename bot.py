@@ -18,7 +18,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # CONFIG
 # =========================
 
-TOKEN = "8297145439:AAFGAJhKFF-HaISR8Qu-owSDcB2P8FgkAlQ"
+TOKEN = "ADD TOKEN"
 
 # Your working endpoint from curl
 DEEPSEEK_URL = "http://127.0.0.1:9000/v3/chat/completions"
